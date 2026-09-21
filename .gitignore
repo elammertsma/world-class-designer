@@ -1,0 +1,14 @@
+# Agent keys, never committed
+.env.agents
+.env
+.env.*
+!.env.agents.example
+
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Outputs a run writes into a project (not into this repo, but keep clones clean)
+design/shots/
+design/audits/
+design/assets/

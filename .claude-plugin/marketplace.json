@@ -1,0 +1,27 @@
+{
+  "name": "world-class-designer",
+  "owner": {
+    "name": "Eric Lammertsma",
+    "url": "https://github.com/elammertsma"
+  },
+  "description": "Single-plugin marketplace for world-class-designer.",
+  "plugins": [
+    {
+      "name": "world-class-designer",
+      "source": "./",
+      "description": "Turn Claude Code into a world-class designer: a design process with taste, screenshot-only critics and real media.",
+      "license": "MIT",
+      "category": "design",
+      "tags": [
+        "design",
+        "ui",
+        "landing-page",
+        "critic",
+        "gemini",
+        "fal"
+      ],
+      "homepage": "https://github.com/elammertsma/world-class-designer",
+      "repository": "https://github.com/elammertsma/world-class-designer"
+    }
+  ]
+}

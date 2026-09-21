@@ -1,0 +1,24 @@
+{
+  "name": "world-class-designer",
+  "displayName": "World-class Designer",
+  "version": "0.1.0",
+  "description": "Turn Claude Code into a world-class designer: taste interview, seeded direction exploration, HTML prototypes, screenshot-only critics (three per round, median score), a cached reference brief, Gemini image and fal.ai video generation, then subtraction, AI-tell removal, a states pass and a Lighthouse gate. After Anshu Chimala's article of the same name.",
+  "author": {
+    "name": "Eric Lammertsma",
+    "url": "https://github.com/elammertsma"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ui",
+    "landing-page",
+    "critic",
+    "claude-code",
+    "skill",
+    "agents",
+    "gemini",
+    "fal"
+  ],
+  "homepage": "https://github.com/elammertsma/world-class-designer",
+  "repository": "https://github.com/elammertsma/world-class-designer"
+}
