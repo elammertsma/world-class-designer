@@ -59,7 +59,7 @@ Skill and agents, not one or the other: the skill runs inline in your session so
 As a plugin (recommended; installs the skill and the three agents together and updates with the repo):
 
 ```
-/plugin marketplace add <your-github-user>/world-class-designer
+/plugin marketplace add elammertsma/world-class-designer
 /plugin install world-class-designer@world-class-designer
 ```
 
